@@ -81,31 +81,26 @@ The project demonstrates how classes and objects can be used to organize related
 - Class design
 - Object-Oriented Programming
 
-## Project Structure
-01_Python_Programming_and_OOP/
-01_Python_Programming_and_OOP/
-│
-├── README.md
-├── python_programming_oop.ipynb
-└── python_programming_oop.pdf
-Files Included
-Jupyter Notebook (.ipynb)
+## Project Files Included
 
-The notebook contains:
+1. Jupyter Notebook (.ipynb)
+
+**The notebook contains:**
 
 Python code
 Exercise explanations
 Code execution
 Program outputs
-PDF (.pdf)
 
-The PDF contains:
+2. PDF (.pdf)
+**The PDF contains:**
 
 The completed exercise
 Code documentation
 Screenshots of the implementation
 Output results
-Learning Outcomes
+
+## Learning Outcomes
 
 Through this exercise, I developed practical experience in:
 
@@ -117,7 +112,7 @@ Designing classes and creating objects.
 Applying Object-Oriented Programming concepts to a simple application.
 Future Improvements
 
-Possible improvements include:
+## Possible improvements include:
 
 Adding input validation to the tax calculator.
 Supporting additional tax ranges.
@@ -126,11 +121,11 @@ Expanding the chat system with user registration.
 Adding message history.
 Adding timestamps to messages.
 Creating a graphical user interface for the chat system.
-Author
+
+**Author**
 
 Bakht Zamin
-```text
+
+AI Automation & Prompt Engineering | Data Analytics & Business Intelligence | Python
  
-├── README.md
-├── python_programming_oop.ipynb
-└── python_programming_oop.pdf
+
