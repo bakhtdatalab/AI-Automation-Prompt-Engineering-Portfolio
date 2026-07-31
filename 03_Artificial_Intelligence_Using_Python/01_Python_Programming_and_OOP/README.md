@@ -105,22 +105,28 @@ Output results
 Through this exercise, I developed practical experience in:
 
 Writing Python programs using conditional logic.
+
 Accepting and processing user input.
+
 Working with lists and dictionaries.
+
 Performing basic string operations.
+
 Designing classes and creating objects.
+
 Applying Object-Oriented Programming concepts to a simple application.
-Future Improvements
 
-## Possible improvements include:
+## Future Improvements
 
-Adding input validation to the tax calculator.
-Supporting additional tax ranges.
-Allowing users to enter custom word lists.
-Expanding the chat system with user registration.
-Adding message history.
-Adding timestamps to messages.
-Creating a graphical user interface for the chat system.
+**Possible improvements include:**
+
+- Adding input validation to the tax calculator.
+- Supporting additional tax ranges.
+- Allowing users to enter custom word lists.
+- Expanding the chat system with user registration.
+- Adding message history.
+- Adding timestamps to messages.
+- Creating a graphical user interface for the chat system.
 
 **Author**
 
