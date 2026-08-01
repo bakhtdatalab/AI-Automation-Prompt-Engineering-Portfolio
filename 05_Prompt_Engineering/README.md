@@ -116,11 +116,12 @@ As projects are completed, this section may develop into:
 └── 05_Prompt_Engineering_Projects/
     ├── README.md
     └── future_projects/
+```
 
-Connection to My Portfolio
+### Connection to My Portfolio
 
 Prompt Engineering connects with my other areas of learning:
-
+```text
 Prompt Engineering
         +
 Python
@@ -144,19 +145,21 @@ Prompt Engineering
 AI Automation
         ↓
 Automated AI Business Processes
-Learning Goal
+```
+### Project Goal
 
-My goal is to develop practical Prompt Engineering skills that can be applied to:
+My goal is to showcase me practical Prompt Engineering skills that can be applied to:
 
-AI automation
-Business workflows
-Data analysis
-Content creation
-Research
-Customer support
-Productivity
-AI-enabled business solutions
-Author
+- AI automation
+- Business workflows
+- Data analysis
+- Content creation
+- Research
+- Customer support
+- Productivity
+- AI-enabled business solutions
+
+**Author**
 
 Bakht Zamin
 
