@@ -2,7 +2,7 @@
  
 ## About Me
 
-I am an aspiring **AI Automation & Prompt Engineering Specialist** with an academic background in English. I am developing practical skills in Python, artificial intelligence, prompt engineering, AI automation, data analysis, and AI-powered application development.
+I am an aspiring **AI Automation & Prompt Engineering Specialist** with an academic background in English with well developed practical skills in Python, artificial intelligence, prompt engineering, AI automation, data analysis, and AI-powered application development.
 
 My goal is to combine strong communication, research, and language skills with modern AI technologies to build useful, practical, and user-focused solutions.
 
@@ -13,7 +13,6 @@ My goal is to combine strong communication, research, and language skills with m
 * Python
 * Google Colab
 * VScode
-* Kaggle
 * Data Analysis
 * Data Visualization
 * Excel
@@ -57,19 +56,19 @@ My goal is to combine strong communication, research, and language skills with m
 
 ### 2. AI Prompt Engineering
 
-This section will contain prompt libraries, prompt-based AI workflows, and practical AI solutions.
+This section contains prompt libraries, prompt-based AI workflows, and practical AI solutions.
 
 ### 3. AI Automation
 
-This section will contain automated workflows using AI tools, APIs, and automation platforms.
+This section contains automated workflows using AI tools, APIs, and automation platforms.
 
 ### 4. Data Analytics
 
-This section will contain Python, Excel, and Power BI projects.
+This section contains Python, Excel, and Power BI projects.
 
 ### 5. AI Applications
 
-This section will contain AI-powered applications, including chatbots, document assistants, and language-based tools.
+This section consists on AI-powered applications, including chatbots, document assistants, and language-based tools.
 
 ## I am going to begin with basic skills like:
 
@@ -93,4 +92,4 @@ This section will contain AI-powered applications, including chatbots, document 
 
 ---
 
-*This portfolio is continuously updated as I upload new projects and develop new skills.*
+*This portfolio is continuously updated as I upload new projects to my technical skills and expertise.*
