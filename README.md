@@ -2,7 +2,7 @@
  
 ## About Me
 
-I am an aspiring **AI Automation & Prompt Engineering Specialist** with an academic background in English with well developed practical skills in Python, artificial intelligence, prompt engineering, AI automation, data analysis, and AI-powered application development.
+I am an aspiring **AI Automation & Prompt Engineering Specialist** with an academic background in English, and with well developed practical skills in Python, artificial intelligence, prompt engineering, AI automation, data analysis, and AI-powered application development.
 
 My goal is to combine strong communication, research, and language skills with modern AI technologies to build useful, practical, and user-focused solutions.
 
